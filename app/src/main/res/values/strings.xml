@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">على الأصول</string>
+    <string name="hello">مرحباً</string>
+    <string name="request_e0">أدخل رقم الموظف</string>
+    <string name="example">مثال: e06533</string>
+    <string name="start">ابدأ المسابقة</string>
+</resources>
